@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fgiusti90
-- 👀 I’m interested in HR Systems
-- 🌱 I’m currently learningC and Javascript
-- 💞️ I’m looking to collaborate on Projects
+- 👀 Currently developing AI Agents to develop as HR Consultants
 - 📫 How to reach me: www.linkedin.com/in/federico-giusti-59bb991b
 
 <!---
